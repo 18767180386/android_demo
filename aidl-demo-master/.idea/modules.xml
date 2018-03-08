@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aidl-demo-master.iml" filepath="$PROJECT_DIR$/aidl-demo-master.iml" />
+      <module fileurl="file://D:\work\my_job\react_native\react_demo\android_demo\aidl-demo-master\allen-aidl-demo.iml" filepath="D:\work\my_job\react_native\react_demo\android_demo\aidl-demo-master\allen-aidl-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\work\my_job\react_native\react_demo\android_demo\aidl-demo-master\app\app.iml" filepath="D:\work\my_job\react_native\react_demo\android_demo\aidl-demo-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
